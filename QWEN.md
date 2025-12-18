@@ -12,7 +12,7 @@ JS to Python Conversion Guide
 - This is a personal practice project where all code is written by the developer, not AI
 
 ## Project Steps/Instructions
-1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings) - Note: use zero-padded numbering format
+1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings, chapter_06_to_09_math_expressions) - Note: use zero-padded numbering format
 2. Within each chapter, create question directories (question_01 through question_XX) -> User Specified
 3. Each question directory should contain a main.py file
 4. Write Python code examples in each main.py file manually (not with AI assistance)
@@ -23,10 +23,11 @@ JS to Python Conversion Guide
 - Chapter directories must use zero-padded numbering format (e.g., chapter_01, chapter_02) rather than single digits (chapter_1, chapter_2)
 - Question directories must use zero-padded numbering format (e.g., question_01, question_02) rather than single digits (question_1, question_2)
 - For numbers greater than 9, use the regular format without leading zeros for both chapters and questions (e.g., chapter_10, question_10, chapter_11, question_11) not (chapter_010, question_010, chapter_011, question_011)
+- For combined chapters, use the format chapter_XX_to_XX_topic_name (e.g., chapter_06_to_09_math_expressions)
 
 ## Project Constraints
 - All code must be in Python (not JavaScript)
-- File structure must follow the pattern: chapter_X/{question_01...question_XX}/main.py
+- File structure must follow the pattern: chapter_X/{question_01...question_XX}/main.py or chapter_XX_to_XX_topic/{question_01...question_XX}/main.py
 - Git operations must be performed regularly to track progress
 - Commit messages should be descriptive
 - Each main.py file should focus on a single concept or problem
@@ -37,9 +38,9 @@ JS to Python Conversion Guide
 - Git Operations: Use `git add .`, `git commit -m "descriptive message"`, `git push origin main` after each significant change
 - File Structure:
   - Root: /js-to-python/
-  - Chapters: /chapter_XX_topic_name/
-  - Questions: /chapter_XX_topic_name/question_XX/
-  - Code files: /chapter_XX_topic_name/question_XX/main.py
+  - Chapters: /chapter_XX_topic_name/ or /chapter_XX_to_XX_topic_name/ (for combined chapters)
+  - Questions: /chapter_XX_topic_name/question_XX/ or /chapter_XX_to_XX_topic_name/question_XX/
+  - Code files: /chapter_XX_topic_name/question_XX/main.py or /chapter_XX_to_XX_topic_name/question_XX/main.py
 - Each question should have its own main.py file containing manually written Python code
 
 ## Git Manager Agent
