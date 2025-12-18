@@ -12,7 +12,7 @@ JS to Python Conversion Guide
 - This is a personal practice project where all code is written by the developer, not AI
 
 ## Project Steps/Instructions
-1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings)
+1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings) - Note: use zero-padded numbering format
 2. Within each chapter, create question directories (question_01 through question_XX) -> User Specified
 3. Each question directory should contain a main.py file
 4. Write Python code examples in each main.py file manually (not with AI assistance)
@@ -20,6 +20,7 @@ JS to Python Conversion Guide
 6. Maintain consistent file structure across all chapters
 
 ## Important Notes
+- Chapter directories must use zero-padded numbering format (e.g., chapter_01, chapter_02) rather than single digits (chapter_1, chapter_2)
 - Question directories must use zero-padded numbering format (e.g., question_01, question_02) rather than single digits (question_1, question_2)
 - For numbers greater than 9, use the regular format without leading zeros (e.g., question_10, question_11) not (question_010, question_011)
 
