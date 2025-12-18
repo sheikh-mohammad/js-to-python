@@ -13,7 +13,7 @@ JS to Python Conversion Guide
 
 ## Project Steps/Instructions
 1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings)
-2. Within each chapter, create question directories (question_01 through question_09)
+2. Within each chapter, create question directories (question_01 through question_XX) -> User Specified
 3. Each question directory should contain a main.py file
 4. Write Python code examples in each main.py file manually (not with AI assistance)
 5. After each change, perform git operations: add, commit, and push
@@ -21,7 +21,7 @@ JS to Python Conversion Guide
 
 ## Project Constraints
 - All code must be in Python (not JavaScript)
-- File structure must follow the pattern: chapter_X/{question_01...question_09}/main.py
+- File structure must follow the pattern: chapter_X/{question_01...question_XX}/main.py
 - Git operations must be performed regularly to track progress
 - Commit messages should be descriptive
 - Each main.py file should focus on a single concept or problem
