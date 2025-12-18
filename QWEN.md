@@ -22,7 +22,7 @@ JS to Python Conversion Guide
 ## Important Notes
 - Chapter directories must use zero-padded numbering format (e.g., chapter_01, chapter_02) rather than single digits (chapter_1, chapter_2)
 - Question directories must use zero-padded numbering format (e.g., question_01, question_02) rather than single digits (question_1, question_2)
-- For numbers greater than 9, use the regular format without leading zeros (e.g., question_10, question_11) not (question_010, question_011)
+- For numbers greater than 9, use the regular format without leading zeros for both chapters and questions (e.g., chapter_10, question_10, chapter_11, question_11) not (chapter_010, question_010, chapter_011, question_011)
 
 ## Project Constraints
 - All code must be in Python (not JavaScript)
