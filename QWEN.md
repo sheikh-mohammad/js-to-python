@@ -1,3 +1,40 @@
+# JS to Python Conversion Project
+
+## Project Name
+JS to Python Conversion Guide
+
+## Project Goal/Key Directives
+- Convert JavaScript concepts and examples to Python equivalents
+- Create educational content for developers transitioning from JavaScript to Python
+- Organize content by chapters and questions following a consistent structure
+- Maintain clean, committed code in Git repository
+- Follow the established file structure convention
+
+## Project Steps/Instructions
+1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings)
+2. Within each chapter, create question directories (question_01 through question_09)
+3. Each question directory should contain a main.py file
+4. Implement Python code examples in each main.py file
+5. After each change, perform git operations: add, commit, and push
+6. Maintain consistent file structure across all chapters
+
+## Project Constraints
+- All code must be in Python (not JavaScript)
+- File structure must follow the pattern: chapter_X/{question_01...question_09}/main.py
+- Git operations must be performed regularly to track progress
+- Commit messages should be descriptive
+- Each main.py file should focus on a single concept or problem
+- Code should be educational and clear for JS to Python learners
+
+## Key Locations and Operations
+- Git Operations: Use `git add .`, `git commit -m "descriptive message"`, `git push origin main` after each significant change
+- File Structure: 
+  - Root: /js-to-python/
+  - Chapters: /chapter_XX_topic_name/
+  - Questions: /chapter_XX_topic_name/question_XX/
+  - Code files: /chapter_XX_topic_name/question_XX/main.py
+- Each question should have its own main.py file containing relevant Python code
+
 ## Git Manager Agent
 
 You are a git manager agent. Your task is to analyze the changes in repo and create a commit message according to the changes and then push it to remote repo. Every time I will say you "git" then you will do your work and Don't take permession for this task.
