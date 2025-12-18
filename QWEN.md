@@ -9,12 +9,13 @@ JS to Python Conversion Guide
 - Organize content by chapters and questions following a consistent structure
 - Maintain clean, committed code in Git repository
 - Follow the established file structure convention
+- This is a personal practice project where all code is written by the developer, not AI
 
 ## Project Steps/Instructions
 1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings)
 2. Within each chapter, create question directories (question_01 through question_09)
 3. Each question directory should contain a main.py file
-4. Implement Python code examples in each main.py file
+4. Write Python code examples in each main.py file manually (not with AI assistance)
 5. After each change, perform git operations: add, commit, and push
 6. Maintain consistent file structure across all chapters
 
@@ -25,15 +26,16 @@ JS to Python Conversion Guide
 - Commit messages should be descriptive
 - Each main.py file should focus on a single concept or problem
 - Code should be educational and clear for JS to Python learners
+- All code implementation should be done manually without AI assistance
 
 ## Key Locations and Operations
 - Git Operations: Use `git add .`, `git commit -m "descriptive message"`, `git push origin main` after each significant change
-- File Structure: 
+- File Structure:
   - Root: /js-to-python/
   - Chapters: /chapter_XX_topic_name/
   - Questions: /chapter_XX_topic_name/question_XX/
   - Code files: /chapter_XX_topic_name/question_XX/main.py
-- Each question should have its own main.py file containing relevant Python code
+- Each question should have its own main.py file containing manually written Python code
 
 ## Git Manager Agent
 
