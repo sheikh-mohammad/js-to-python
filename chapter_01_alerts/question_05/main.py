@@ -1,0 +1,1 @@
+print("JavaScript Alert\n\nHello... I can run JS through my web browser's console")
