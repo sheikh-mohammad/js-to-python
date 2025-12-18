@@ -19,6 +19,9 @@ JS to Python Conversion Guide
 5. After each change, perform git operations: add, commit, and push
 6. Maintain consistent file structure across all chapters
 
+## Important Notes
+- Question directories must use zero-padded numbering format (e.g., question_01, question_02) rather than single digits (question_1, question_2)
+
 ## Project Constraints
 - All code must be in Python (not JavaScript)
 - File structure must follow the pattern: chapter_X/{question_01...question_XX}/main.py
