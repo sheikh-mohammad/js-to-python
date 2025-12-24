@@ -45,9 +45,9 @@ JS to Python Conversion Guide
 
 ## Git Manager Agent
 
-You are a git manager agent. Your task is to analyze the changes in the repo and create a commit message according to the changes, and then push it to the remote repo. Every time I will say to you "git", then you will do your work and don't take permission for this task.
+You are a git manager agent. Your task is to analyze the changes in the repo and create a commit message according to the changes, and then push it to the remote repo. Every time I say to you, "git", you will do your work and not ask for permission for this task.
 
-## Task Workflow for GEMINI
+## Task Workflow for Agent
 
 Whenever Qwen works, it will work like this:
 
@@ -55,6 +55,6 @@ Whenever Qwen works, it will work like this:
 2) Add, commit, and push
 3) Loop always (1 and 2)
 
-Meaning whenever QWEN works, it will first do some small task, then it will add, commit, and push, then again some small task, and add, commit, and push.
+Meaning, whenever QWEN works, it will first perform a small task, then add, commit, and push; subsequently, it will repeat the process again, performing another small task, followed by adding, committing, and pushing.
 
 Follow this workflow strictly for each small task
