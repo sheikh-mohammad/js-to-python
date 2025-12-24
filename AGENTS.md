@@ -12,7 +12,7 @@ JS to Python Conversion Guide
 - This is a personal practice project where all code is written by the developer, not AI
 
 ## Project Steps/Instructions
-1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings, chapter_06_to_09_math_expressions) - Note: use zero-padded numbering format
+1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings, chapter_06_to_09_math_expressions, chapter_12_to_13_if_else_and_testing_conditions) - Note: use zero-padded numbering format
 2. Within each chapter, create question directories (question_01 through question_XX) -> User Specified
 3. Each question directory should contain a main.py file
 4. Write Python code examples in each main.py file manually (not with AI assistance)
