@@ -1,2 +1,3 @@
-Strictly follow the @AGENTS.md 
+Strictly follow the @AGENTS.md
+
 Link: [AGENTS.md](AGENTS.md)
