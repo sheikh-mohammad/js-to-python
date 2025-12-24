@@ -15,8 +15,8 @@ JS to Python Conversion Guide
 1. Create chapter directories following the naming pattern (e.g., chapter_01_alerts, chapter_02_variables_for_strings, chapter_06_to_09_math_expressions, chapter_12_to_13_if_else_and_testing_conditions) - Note: use zero-padded numbering format
 2. Within each chapter, create question directories (question_01 through question_XX) -> User Specified
 3. Each question directory should contain a main.py file
-4. Write Python code examples in each main.py file manually (not with AI assistance)
-5. After each change, perform git operations: add, commit, and push
+4. Do not write any specific content in the main.py files (leave them empty)
+5. After creating each Python file, perform git operations immediately: add, commit, and push
 6. Maintain consistent file structure across all chapters
 
 ## Important Notes
