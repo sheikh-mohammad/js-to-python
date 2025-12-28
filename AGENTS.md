@@ -49,7 +49,7 @@ You are a git manager agent. Your task is to analyze the changes in the repo and
 
 ## Task Workflow for Agent
 
-Whenever Qwen works, it will work like this:
+Whenever Agent works, it will work like this:
 
 1) Some small task
 2) Add, commit, and push
