@@ -1,1 +1,1 @@
-print("Hello... I can run JS through my web browser's console")
+print("6. Make use of alerts in your new/existing HTML & CSS project.")
