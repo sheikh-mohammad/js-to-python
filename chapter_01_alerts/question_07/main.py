@@ -1,0 +1,5 @@
+print("Practice placement of <script></script> element in following sections of your project in exercise 6:")
+print("     a. Head")
+print("     c. Body (before your page's HTML")
+print("     c. Body (inside your page's HTML")
+print("     d. Body (after your page's HTML")
