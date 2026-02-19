@@ -55,6 +55,6 @@ Whenever Agent works, it will work like this:
 2) Add, commit, and push
 3) Loop always (1 and 2)
 
-Meaning, whenever QWEN works, it will first perform a small task, then add, commit, and push; subsequently, it will repeat the process again, performing another small task, followed by adding, committing, and pushing.
+Meaning, whenever agent works, it will first perform a small task, then add, commit, and push; subsequently, it will repeat the process again, performing another small task, followed by adding, committing, and pushing.
 
 Follow this workflow strictly for each small task
