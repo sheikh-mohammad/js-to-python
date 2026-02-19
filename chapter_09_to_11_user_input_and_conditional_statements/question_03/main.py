@@ -1,4 +1,4 @@
-traffic_signal_color : str = input("Enter the color of road traffic signal: ")
+traffic_signal_color : str = input("Enter the color of road traffic signal (Red, Yellow, Green): ")
 
 if traffic_signal_color == "Red":
     print("Must stop")
